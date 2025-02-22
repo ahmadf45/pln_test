@@ -2,15 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+## Evidance Screen
 
-This project is a starting point for a Flutter application.
+<img width="415" alt="image" src="https://github.com/user-attachments/assets/cf956318-2d7d-4719-a6c9-968bf5f9498b" />
+<img width="412" alt="image" src="https://github.com/user-attachments/assets/37a2a4ea-8ae4-4145-b9ea-a784704e1604" />
+<img width="420" alt="image" src="https://github.com/user-attachments/assets/d58decfd-69cc-429d-9d0e-4e0f7be5f6ce" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
